@@ -16,6 +16,5 @@ def home():
 def get_raw_response(query):
     return str(english_bot.get_response(query))
 
-
 if __name__ == "__main__":
     app.run()
