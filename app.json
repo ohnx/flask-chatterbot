@@ -1,0 +1,5 @@
+{
+  "name": "Flask chatterbot",
+  "description": "A web implementation of ChatterBot using Flask.",
+  "image": "heroku/python"
+}
